@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 iniciando fusion con conflicto
 modificacion desde rc1
 =======
 modificacio desde rc2
 >>>>>>> rc2
+=======
+modificaciones desde rc3
+>>>>>>> rc3
